@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f8/8a/ca/f88acab7ffd127b4465659500aa0538f.gif)]
+[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-cd43a4592e.gif)]
 
 <h1 align="center">Hi 👋, I'm Bayu Sukma</h1>
 <h3 align="center">A passionate data enthusiast</h3>
