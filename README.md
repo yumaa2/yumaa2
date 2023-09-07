@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-db738e83ab.gif)]
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]
 
 <h1 align="center">Hi 👋, I'm Bayu Sukma</h1>
 <h3 align="center">A passionate data enthusiast</h3>
